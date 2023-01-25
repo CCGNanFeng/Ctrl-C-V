@@ -1,0 +1,21 @@
+! Title: Personal
+! Author: CCGNanFeng
+! Homepage: https://github.com/CCGNanFeng/Ctrl-c-v/tree/main/AdGuard
+! Updated: 2023-01-24 12:00:00
+! Total: 6
+
+# 爱奇艺（银河奇异果）
+||t7z.cupid.ptqy.gitv.tv^
+
+# Gitv
+||video.market.xiaomi.com^
+
+# 腾讯（云视听极光）
+||sv-video.play.aiseet.atianqi.com^
+
+# 芒果TV
+||mobaliyun.res.mgtv.com^
+
+# 优酷（CIBN酷喵）
+||pl.cp31.ott.cibntv.net^
+||vali-ugc.cp31.ott.cibntv.net^
